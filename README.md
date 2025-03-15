@@ -1,4 +1,4 @@
-# 🎯 Guess My Number!
+# 🎯 Unlock The Number!
 
 A simple number-guessing game where players try to guess the secret number between 1 and 20. The game provides feedback on each guess and keeps track of the high score.
 
